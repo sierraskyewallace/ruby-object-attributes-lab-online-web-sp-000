@@ -10,5 +10,5 @@ class Dog
     @breed 
   end
   
-  fido = Dog.new 
-  fido 
+  fido = Dog.new("Chihuahua")
+  fide.name 
